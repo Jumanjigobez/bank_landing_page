@@ -314,7 +314,7 @@ body{
 }
 
 
-@media (max-width: 375px){
+@media (max-width: 600px){
 	#menu_btn{
 		display: block;
 		margin-top: 0.5rem;
